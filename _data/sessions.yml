@@ -1,0 +1,53 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 100
+  title: "Arrival & Get-together"
+  language: en
+  service: true
+  description: "Grab some beer and food and get excited"
+-
+  id: 000
+  title: "Welcome to Deep Learning in Action, 2nd Edition"
+  language: en
+  description: "Welcome to our 2nd Edition. Introduction of Schedule and Sponsors. What is hot in the field of deep learning?"
+  speakers: [3]
+-
+  id: 001
+  title: "Case Study: Machine Learning in Fraud Detection"
+  description: "So far Machine Learning (ML) in business has mainly been used by 21st century companies like Google, Facebook, Amazon. Nowadays, business areas further away from the technological cutting edge become interested in profiting from the predictive power of ML algorithms and need external support to integrate them into their applications. In this areas, major points of implementing ML routines are data preparation in close collaboration with the client and subtle issues like the thread of automation and trust in complex technologies. TNG Technology Consulting offers high end IT-consulting for businesses in the Munich area, ranging from small innovative Start-Up’s to large telecommunication companies. Recently, we developed a ML based optimisation of a fraud detection system together with one of our clients. Our solution was a machine assisted human decision based on Support Vector Machines and Stochastic Neighbourhood embedding, which increased the fraud detection rate and let the client gain trust in the new technology."
+  subtype: keynote
+  language: en
+  complexity: "Beginner"
+  speakers: [1]
+
+-
+  id: 002
+  title: "System Identification and Forecasting with Recurrent Neural Networks"
+  description: "Recurrent neural networks are an extreme example of deep learning models. We do not speak about a handful of layers but about hundreds of layers describing the system over time. As a guideline we will use a view which I have called ´Correspondence Principle´. This is a joint view between equations, architectures and local algorithms. We will start with general state space models, realize them as recurrent neural networks and move to more and more consistent descriptions of dynamical systems. At the end we will be able to handle models with several hundred thousands of neurons. Forecasting is not only an interesting application on the basis of system identification but also a test of the correctness of the model building. We have to accept, that our forecasts are not perfect and thus we will develop a method for the estimation of the forecast uncertainty." 
+  subtype: keynote
+  speakers: [2]
+  language: en
+  complexity: "Intermediate" 
+  # video: "https://www.youtube.com/embed/6hIUFklI28I"
+  # presentation: "https://www.slideshare.net/slideshow/embed_code/key/o6j8mkmfmFrQyE"
+-
+  id: 003
+  title: "Connectomics - The dense reconstruction of neural networks"
+  description: "The mapping of neuronal connectivity is one of the main challenges in neuroscience. Only with the knowledge of wiring diagrams is it possible to understand the computational capacities of neuronal networks, both in the sensory periphery, and especially in the mammalian cerebral cortex. Our methods for dense circuit mapping are based on 3-dimensional electron microscopy (EM) imaging of tissue, which allows imaging nerve tissue at nanometer-scale resolution across substantial volumes (typically hundreds of micrometers per spatial dimension) using Serial Block-Face Scanning Electron Microscopy (SBEM). The most time-consuming aspect of circuit mapping, however, is image analysis; analysis time far exceeds the time needed to acquire the data. Therefore, we developed methods to make circuit reconstruction feasible by increasing analysis speed and accuracy, using a combination of crowd sourcing and machine learning. We have applied these methods to circuits in the mouse retina, mapping the complete connectivity graph between almost a thousand neurons, and we are currently improving these methods for the application to neuronal circuits in the neocortex using automated image analysis, together with online science games." 
+  subtype: keynote
+  speakers: [4]
+  language: en
+  complexity: "Beginner"
+  # video: "https://www.youtube.com/embed/3Dw-8ETS4SM"
+  # presentation: "https://www.slideshare.net/slideshow/embed_code/key/6Uc9KmqsmGCJan"
+-
+  id: 101
+  title: "Social Evening"
+  language: en
+  service: true
+  description: "Wow, awesome talks! Grab a beer and continue the discussion."

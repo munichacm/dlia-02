@@ -1,0 +1,53 @@
+- 
+  id: 1
+  name: "Paul"
+  surname: "Pfeiffer"
+  company: "TNG Technology Consulting"
+  title: "Intern"
+  bio: "Paul Pfeiffer is a physicist by education, who entered into the IT-World via an internship at TNG Technology Consulting. During his physics studies in Konstanz and Munich, he has always been interested in information processing. Both his Bachelor and Master thesis were in the field of quantum information processing and during a research internship at the MPI of Neurobiology, he programmed artificial neural networks for the analysis of images from the brain."
+  thumbnailUrl: thumbnail.png
+  rockstar: true
+- 
+  id: 2
+  name: "Dr. Hans-Georg"
+  surname: "Zimmermann"
+  company: "Siemens AG, Corporate Technology"
+  title: "Principal Researcher"
+  bio: 'Study of mathematics, computer science and operations research. Since 1987 at Siemens AG, Corporate Technology. 1988 founding member of the neural networks group in Siemens Munich. Scientific leader of the Learning Systems Group. Current research interests: System Identification, Forecasting and Control with Neural Networks. Applications in economics (time series analysis, forecasting, diagnosis, uncertainty analysis, and decision support) and engineering (process modeling, renewable energies, control and process surveillance).' 
+  thumbnailUrl: Zimmermann.jpg
+  rockstar: true
+- 
+  id: 3
+  name: "David"
+  surname: "Dao"
+  company: "Broad Institute of MIT and Harvard"
+  title: "Student Researcher"
+  bio: "David is a M.Sc. Student at TUM and a student researcher in machine learning. Before his studies, David worked as intern at CERN. For his thesis he works on machine learning at the Broad Institute of MIT and Harvard. He is interested in machine learning and its applications, including bioinformatics, computer vision, natural language processing and information retrieval"
+  thumbnailUrl: DavidDao.png
+  rockstar: true
+  ribbon: 
+    - {abbr: "ACM", title: "ACM", url: "http://germany.acm.org/"}
+    - {abbr: "IEEE", title: "IEEE Computer Society", url: "http://www.computer.org/web/guest"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106964331265732757093"}
+    - {name: "twitter", link: "https://twitter.com/daviddao_"}
+    - {name: "github", link: "https://github.com/daviddao"}
+    - {name: "site", link: "http://daviddao.de/"}
+- 
+  id: 4
+  name: "Dr. Moritz"
+  surname: "Helmstaedter"
+  company: "Max Planck Institute for Brain Research"
+  title: "Director"
+  bio: "Born 1978 in Berlin, Germany. 1998 onwards studies of medicine and physics at Ruprecht-Karls-University Heidelberg, Germany (Medical license and Diploma in physics). Brief interlude as strategy consultant with McKinsey. Doctoral thesis with Bert Sakmann and Post-Doc with Winfried Denk at the Max Planck Institute for Medical Research in Heidelberg. 2011-2014 Research Group leader and Principal Investigator at the Max Planck Institute of Neurobiology, Munich. Since August 2014 Director and Scientific Member at the Max Planck Institute for Brain Research. For his research activities, Moritz Helmstaedter was honored with the Otto Hahn Medal and the Bernard Katz Lecture."
+  thumbnailUrl: Helmstaedter.jpg
+  rockstar: true
+# - 
+#   id: 5
+#   name: "Third"
+#   surname: "Speaker"
+#   company: "from awesome"
+#   title: "genius"
+#   bio: "Awesome guy"
+#   thumbnailUrl: thumbnail.png
+#   rockstar: true
